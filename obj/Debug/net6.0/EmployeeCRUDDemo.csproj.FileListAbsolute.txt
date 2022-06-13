@@ -1,0 +1,8 @@
+C:\Users\Abhishek Biju\Desktop\Abhishek\Datafortune Internship\MyCode\EmployeeCRUDDemo\obj\Debug\net6.0\EmployeeCRUDDemo.csproj.AssemblyReference.cache
+C:\Users\Abhishek Biju\Desktop\Abhishek\Datafortune Internship\MyCode\EmployeeCRUDDemo\obj\Debug\net6.0\EmployeeCRUDDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek Biju\Desktop\Abhishek\Datafortune Internship\MyCode\EmployeeCRUDDemo\obj\Debug\net6.0\EmployeeCRUDDemo.AssemblyInfoInputs.cache
+C:\Users\Abhishek Biju\Desktop\Abhishek\Datafortune Internship\MyCode\EmployeeCRUDDemo\obj\Debug\net6.0\EmployeeCRUDDemo.AssemblyInfo.cs
+C:\Users\Abhishek Biju\Desktop\Abhishek\Datafortune Internship\MyCode\EmployeeCRUDDemo\obj\Debug\net6.0\EmployeeCRUDDemo.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Biju\Desktop\Abhishek\Datafortune Internship\MyCode\EmployeeCRUDDemo\obj\Debug\net6.0\EmployeeCRUDDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abhishek Biju\Desktop\Abhishek\Datafortune Internship\MyCode\EmployeeCRUDDemo\obj\Debug\net6.0\EmployeeCRUDDemo.RazorAssemblyInfo.cache
+C:\Users\Abhishek Biju\Desktop\Abhishek\Datafortune Internship\MyCode\EmployeeCRUDDemo\obj\Debug\net6.0\EmployeeCRUDDemo.RazorAssemblyInfo.cs
